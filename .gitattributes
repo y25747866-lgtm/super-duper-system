@@ -1,0 +1,3 @@
+# Help GitHub Linguist detect the primary language (JavaScript) by pointing to our source dir
+src/* linguist-language=JavaScript
+docs/* linguist-language=HTML

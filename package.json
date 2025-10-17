@@ -1,0 +1,13 @@
+{
+  "name": "super-duper-system",
+  "version": "0.1.0",
+  "description": "A minimal starter for super-duper-system",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
